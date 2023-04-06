@@ -12,5 +12,4 @@
  Creating our "World" Scene <br>
  Loading into our world from our menu scene <br>
  Connecting to another player from our world scene <br>
- Conclusion <br>
 </p>
