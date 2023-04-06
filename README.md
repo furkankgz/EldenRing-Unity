@@ -4,8 +4,6 @@
 
 <h1 align="center"> 06.04.23 </h1>
 
-<h3 align="center"> TABLE OF CONTENTS </h3> 
-
 <p align="center">
  Adding the netcode package to our project. <br>
  Adding "PARRELSYNC" to our project <br>
