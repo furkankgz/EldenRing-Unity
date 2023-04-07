@@ -13,3 +13,12 @@
  Loading into our world from our menu scene <br>
  Connecting to another player from our world scene <br>
 </p>
+
+<h1 align="center"> 07.04.23 </h1>
+
+<p align="center">
+ Creating a small play test platform <br>
+ Adding Unity's input system to our project  <br>
+ Creating our input functionality <br>
+ Creating our player classes <br>
+</p>
